@@ -11,5 +11,12 @@
 가로의 좌표의 계수가 N라고 가정을 한다면 각 점 theta의 값은 로 표현 할 수 있다. 
 또한 각 점의 index number를 활용하여 해당 점의 모든 각도를 구할 수 있으며 각 점의 indext를 라고 나타내면 로 모든 점에 대한 각 정보를 얻을 수 있다.  
 각 점의 세로에 값을 로 정의 한다. cylinderical coordinates에서 orthogonal coordinates의 x, y 좌표에 해당 하는 값을 구하기 위하여 Euler's identity을 사용 할 수 있다.
+![default](https://cloud.githubusercontent.com/assets/19329620/16171632/c1d1c594-35ae-11e6-8b2a-cad8b3f3c4a2.png)으로 식을 변환 할 수 있다.
+
+## Block diagram
+
+
+
+
 
 
